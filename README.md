@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**adamooskar/adamooskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student | Vibe coder | Building ideas into projects
 
-Here are some ideas to get you started:
+I enjoy turning ideas into working projects, learning by doing, and experimenting with new tools and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I like
+- 💡 Creating new ideas and turning them into projects
+- 🤖 Building with AI tools
+- 🌱 Learning new technologies and improving my skills
+
+## Current focus
+- Exploring software development
+- Building small projects
+- Improving my coding and problem-solving skills
+
+## Contact:
+- GitHub: @adamooskar
